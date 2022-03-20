@@ -1,4 +1,4 @@
-MengdanLiu_ZhenrongShi_Assignment3
+
 
 This program allows users to test linked list funtation within JUnit ,such as insert, append, prepend, delete, check the linked list if it is empty,and find the index of an element from the linked list.
 
